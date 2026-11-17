@@ -1,0 +1,87 @@
+{
+  "maj": "2026-11-17",
+  "profil": {
+    "nom": "Corentin Surand",
+    "lieu": "France",
+    "pro": "U'mob — scooters électriques de livraison"
+  },
+  "decisions": [
+    {
+      "date": "2026-11-17",
+      "titre": "Jarvis lancé",
+      "detail": "agent IA perso — mémoire privée + ce hub public"
+    },
+    {
+      "date": "2026-11-17",
+      "titre": "Photos WhatsApp validées en prod",
+      "detail": "SAV U'mob v104+ (réception, stockage, backfill, affichage)"
+    },
+    {
+      "date": "2026-11-15",
+      "titre": "CRM : poller IMAP maison",
+      "detail": "relai des mails entrants vers le CRM"
+    },
+    {
+      "date": "2026-10-15",
+      "titre": "CRM U'mob = outil de travail",
+      "detail": "remplace progressivement Sellsy (migration par quarantaine)"
+    },
+    {
+      "date": "2026-10-14",
+      "titre": "Style CRM validé",
+      "detail": "SimCity isométrique lumineux"
+    }
+  ],
+  "projets": [
+    {
+      "nom": "🛠️ SAV U'mob",
+      "etat": "prod — inbox WhatsApp/Email unifiée (v106)",
+      "url": "https://agent-sav-v2.vercel.app/",
+      "repo": "agent-sav-v2"
+    },
+    {
+      "nom": "🏙️ CRM U'mob",
+      "etat": "prod — CRM HubSpot-like + console manager",
+      "url": "https://umob-crm.vercel.app/",
+      "repo": "umob-crm"
+    },
+    {
+      "nom": "🇮🇹 Veille enchères Ferrari",
+      "etat": "7 modèles suivis — MAJ les 1er & 15",
+      "url": "https://corentinsurand-ai.github.io/veille-ferrari/",
+      "repo": "veille-ferrari"
+    },
+    {
+      "nom": "🏠 Alerte immo",
+      "etat": "investissement locatif — rapport quotidien",
+      "url": "https://github.com/corentinsurand-ai/Alerte_immo",
+      "repo": "Alerte_immo"
+    },
+    {
+      "nom": "📋 Constats U'mob",
+      "etat": "constats scooters reconditionnés — Vercel + Supabase",
+      "url": "https://github.com/corentinsurand-ai/constats-umob",
+      "repo": "constats-umob"
+    },
+    {
+      "nom": "🔒 Systèmes privés",
+      "etat": "veilles et dépôts privés — non détaillés publiquement",
+      "url": "",
+      "repo": "",
+      "prive": true
+    },
+    {
+      "nom": "🤖 Mémoire Jarvis",
+      "etat": "mémoire complète de l'agent sur dépôt privé",
+      "url": "",
+      "repo": "",
+      "prive": true
+    }
+  ],
+  "log": [
+    {
+      "date": "2026-11-17",
+      "txt": "Hub public jarvis-hub publié — la mémoire privée reste sur le dépôt privé jarvis"
+    }
+  ]
+}
